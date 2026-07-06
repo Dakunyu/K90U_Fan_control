@@ -42,3 +42,8 @@ app/build/outputs/apk/debug/app-debug.apk
 - 设备需要 ROOT。
 - 仅适用于存在上述 `xiaomi_fan/target_level` 节点的设备。
 - 本项目只做手动档位切换，不做后台常驻或自动温控策略。
+## 鸣谢
+
+本项目的风扇档位修改思路来自酷安用户 [Smartisan_Apple](https://www.coolapk.com/u/1404550)。
+
+相关帖子：[https://www.coolapk.com/feed/72669245?s=NThmODgyNDIyMDY5OTg1ZzZhNGI3YzMyega1640](https://www.coolapk.com/feed/72669245?s=NThmODgyNDIyMDY5OTg1ZzZhNGI3YzMyega1640)
