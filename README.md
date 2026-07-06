@@ -1,4 +1,4 @@
-﻿# K90Ultra Fan Control
+# K90Ultra Fan Control
 
 一个轻量 Android ROOT 风扇档位控制器，用于 Redmi K90 Ultra 风扇节点：
 
@@ -11,7 +11,7 @@
 - 支持 `0/1/2/3/4` 五个可用档位。
 - 每次切换通过 `su -c` 写入节点。
 - 打开 App、回到前台、点击刷新时会读取真实当前档位。
-- 中文 Compose UI，深色控制面板风格。
+- 中文原生 Android UI，深色控制面板风格。
 
 ## 档位说明
 
@@ -28,13 +28,13 @@
 使用 Android Studio 打开项目，或在已配置 Android SDK / JDK / Gradle 的环境中执行：
 
 ```sh
-gradle assembleDebug
+gradle assembleRelease
 ```
 
-Debug APK 输出位置：
+Release APK 输出位置：
 
 ```text
-app/build/outputs/apk/debug/app-debug.apk
+app/build/outputs/apk/release/app-release.apk
 ```
 
 ## 注意
