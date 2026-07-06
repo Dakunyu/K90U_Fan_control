@@ -39,6 +39,6 @@ app/build/outputs/apk/debug/app-debug.apk
 
 ## 注意
 
-- 设备需要 ROOT，并安装 Magisk/SU。
+- 设备需要 ROOT。
 - 仅适用于存在上述 `xiaomi_fan/target_level` 节点的设备。
 - 本项目只做手动档位切换，不做后台常驻或自动温控策略。
