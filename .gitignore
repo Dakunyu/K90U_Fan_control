@@ -1,0 +1,25 @@
+﻿# Gradle / Android build output
+.gradle/
+.kotlin/
+.gradle-local/
+build/
+app/build/
+
+# Local machine config
+local.properties
+
+# Android artifacts / signing
+*.apk
+*.ap_
+*.aab
+*.keystore
+*.jks
+
+# Logs
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
